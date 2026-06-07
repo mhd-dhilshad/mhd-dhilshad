@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Dhilshad 👋
 
-### 🚀 Passionate MEAN Stack Developer | AI Agent Explorer
+### 🚀 Passionate Software Engineer | AI Agent Explorer
 
 I build high-performance web applications using the MEAN stack and love pushing the boundaries of modern technology. Lately, I've been diving deep into open-source AI ecosystems.
 
