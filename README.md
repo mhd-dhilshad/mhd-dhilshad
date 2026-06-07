@@ -4,7 +4,7 @@
 
 I build high-performance web applications using the MEAN stack and love pushing the boundaries of modern technology. Lately, I've been diving deep into open-source AI ecosystems.
 
-- 🛠️ **Current Focus:** Optimizing MongoDB performance & building responsive Angular UIs.
+- 🛠️ **Current Focus:** Building AI Harness with intents for existing CRUD enable applications.
 - 🤖 **AI Experiments:** Actively building and tweaking open-source agents using **OpenClaw** and **Hermes**.
 - 💡 **Goal:** Bridging the gap between full-stack web architectures and autonomous AI workflows.
 
